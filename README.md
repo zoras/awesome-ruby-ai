@@ -64,10 +64,16 @@ A list of awesome AI projects built in Ruby! 🤖❤️
 - [raix](https://github.com/OlympiaAI/raix) - Ruby AI eXtensions
 - [ruby-openai-swarm](http://github.com/graysonchen/ruby-openai-swarm) Lightweight multi-agent orchestration, adapted from OpenAI's Swarm.
 - [sublayer](https://github.com/sublayerapp/sublayer) - A model-agnostic Ruby Generative AI DSL and framework. Provides base classes for building Generators, Actions, Tasks, and Agents that can be used to build AI powered applications in Ruby.
+- [roast](https://github.com/Shopify/roast) - Structured AI workflows made easy
+- [Raif](https://github.com/CultivateLabs/raif) - Raif (Ruby AI Framework) is a Rails engine that helps you add AI-powered features to your Rails apps, such as tasks, conversations, and agents.
 
 ### Evaluation
 
 - [leva](https://github.com/kieranklaassen/leva) - LLM Evaluation Framework for Rails apps to be used with production data.
+
+### Observability
+
+- [RubyLLM::Monitoring](https://github.com/sinaptia/ruby_llm-monitoring) - Monitor your LLM usage within your Rails application.
 
 ### Newsletters
 
